@@ -1,4 +1,4 @@
-Simple Pet App / REST API
+Simple TOdo APP Using NodeJS
 =========================
 
 Hello I am Gifary, I am Full Stack Developer. I have experience in web programming using some technology such as :
