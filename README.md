@@ -1,4 +1,4 @@
-Simple TOdo APP Using NodeJS
+Simple Todo APP Using NodeJS
 =========================
 
 Hello I am Gifary, I am Full Stack Developer. I have experience in web programming using some technology such as :
@@ -8,6 +8,7 @@ Hello I am Gifary, I am Full Stack Developer. I have experience in web programmi
 * Bootstrap
 * Jquery
 * etc
+
 In this moment I am lerning Node JS. For the first time I build Todo APP using Node JS combine with Express JS and some module I used.
 
 * Node.js
