@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='../assets/css/style.css' />
+  </head>
+  <body>
+    <h1>{{ title }}</h1>
+   	<ul>
+   	{% for dt in data %}
+		    <li><a href="/edit/{{ dt['id'] }}"><b>{{ dt['judul'] }}</b></a> Due Date {{ dt['tanggal'] }}</li>
+        <p>{{ dt['deskripsi'] }}</p>
+        <p><a href="/delete/{{ dt['id'] }}" onclick="return confirm('Apakah kamu yakin ?'); ">Hapus</a></p>
+		{% endfor %}
+   	</ul>
+    
+  </body>
+</html>

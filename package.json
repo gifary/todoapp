@@ -1,0 +1,21 @@
+{
+  "name": "application_to_do",
+  "version": "1.0.0",
+  "description": "applikasi yang digunakan untuk memantau kegiatan todo\\",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "gifary",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.1",
+    "swig": "^1.4.2"
+  }
+}
